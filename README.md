@@ -1,6 +1,6 @@
-# qrify
+# QRify
 
-A new Flutter project.
+This project contains QRCode Generator. It generates new QRCode that has the current time and date.
 
 ## Getting Started
 
